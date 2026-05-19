@@ -1,4 +1,4 @@
-# BNN Reversible Steganography
+# Bayesian Neural Networks for Reversible Steganography
 
 ---
 
